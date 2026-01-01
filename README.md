@@ -27,6 +27,7 @@ Add your course schedule using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -105,7 +106,7 @@ Execute the program using runserver command.
     </table>
 </body>
 </html>
-
+```
 ## OUTPUT
 <img width="887" height="780" alt="image" src="https://github.com/user-attachments/assets/0ab8eb76-1a50-444a-adb3-259ba0d78e4b" />
 
